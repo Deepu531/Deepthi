@@ -1,2 +1,3 @@
 # Deepthi
-This is sub branch
+Welcome to CSE
+This is CSSE-sub branch of CSE
